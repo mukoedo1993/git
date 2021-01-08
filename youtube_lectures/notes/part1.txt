@@ -1,1 +1,10 @@
-
+1: What is Git?
+Version control System for tracking changes in computer files.
+        
+        1: Distributed Version Control
+        2: Coordinate works between multiple developers
+        3: who made what changes and when
+        4:Revert back at any time
+        5: Local & Remote Repos
+        
+        
